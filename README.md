@@ -27,54 +27,102 @@ Qu'importe ce qui vous motive, mettez-le à profit pour réussir les étapes sui
 
 ## L'idée du talk
 
-s'inspirer de ce qui a déjà été fait (avec les crédits associés)
-pas une idée 100% nouvelle mais un angle nouveau : exemple "archi héxa autrement" (Lenormand et Topçu)
-thème + façon de le délivrer
-inovations
-discuter de cette idée avec d'autres
+Un talk c'est avant tout l'idée qu'il essaye de transmettre. Ça peut être quelque chose de complètement nouveau. Ça peut aussi être une idée pas spécialement nouvelle, mais avec un angle nouveau, différent. On peut aussi revisiter quelque chose qui existe déjà.
 
-légitimité sur le sujet : passer 20h sur un sujet te sort déjà du lot
+Par exemple, l'architecture héxagonale est un sujet vu et revu. Mais il y a toujours de nouvelles façons de la présenter, de l'aborder, de l'associer à d'autres sujets. Et on peut s'inspirer de sujets d'autres personnes également, avec les crédits associés.
 
-porter un sujet à plusieurs
+La façon peut être presque aussi importante que l'idée. Trouver des manières pédagogiques, ludiques, différentes de l'aborder est souvent bien vu.
+
+Il est conseillé de discuter de ce sujet avec d'autres personnes afin de l'enrichir, de lui donner d'autres perspectives, de le comparer à d'autres choses déjà existantes.
+
+Pour trouver les idées elles-mêmes, vous pouvez vous inspirer de votre quotidien, de vos envies de tech ou non-tech, des tendances, de ce que vous avez appris, de ce que vous ne comprenez pas, ... Et si vous êtes en panne, n'hésitez pas à en demander à d'autres qui en regorgent (speakers comme audience).
+
+En cas de peur de manque de légitimité, se rassurer car c'est assez fréquent. Passer 20 heures sur un sujet fait déjà sortir du lot, et on peut toujours apporter une perspective différente, malgré son niveau.
+De plus, chaque conférence à un public différent, mais certaines ont tous les ans beaucoup de nouvelles personnes, donc il y a toujours besoin de talks non-experts.
+Il faut combattre notre propre "curse of knowledge".
+
+Il existe des collectifs pour accompagner à devenir speaker. Il y a notamment [Crafts Records](https://craftsrecords.org/) qui organise des "tremplins" afin de coacher des primo-speakers depuis l'idée jusqu'à donner le talk en public, et ensuite à une conférence. Il y a aussi [Duchess France](https://www.duchess-france.fr/) qui propose, entre autre, d'accompagner des femmes dans cette démarche.
 
 ## Proposer le talk / abstract
 
-oser
-on peut refuser a posteriori
-être connu des orgas ça peut aider
-connaitre les sujets recherchés (public de la conf, tendance, theme, ...)
-étudier le formulaire du cfp
+Le plus important, c'est d'oser. Comme le dit le lotto : "100% des gagnants ont tenté leur chance". Et il est possible de refuser un sujet après qu'il ait été accepté par les orgas, mais ça doit rester une pratique exceptionnelle.
 
-takeaways : ce que les personnes qui y assistent en retirent
+Une même idée ne se propose pas à toutes les conférences. Chaque conférence a ses spécificités de public, de niveau, de sujet, de thème, ... On peut réussir à adapter une même idée à plusieurs contextes, mais pas à tous. C'est donc important de se renseigner sur la conf (profil du public, tendances technologoqies actuelles, thème de l'édition, ...). Certaines de ces informations se retrouvent dans le formulaire pour proposer un sujet.
 
-proposer sans avoir construit le talk, demande quand même d'avoir déjà réfléchi le sujet
+Les appels à sujets sont nommés "CFP" pour *call for papers*. C'est calqué sur le modèle des conférences et journaux/publications scientifiques. C'est aussi pour cela qu'on parle d'*abstract*, il s'agit d'un résumé de la problématique et des réponses apportées, tout en donnant envie d'en obtenir le détail.
 
-pourquoi "abstract" et "cfp" : basé sur le modèle de la recherche scientifique
+Dans les faits, cela se traduit souvent par un formulaire sur un site comme [Sessionize](https://sessionize.com/) ou [Conference-Hall](https://conference-hall.io/) associé à une date de clôture. Suite à quoi les orgas délibèrent, puis annoncent quelles sessions ont été retenues ou pas. Pour ce qui est de Sessionize, il est conseillé de remplir son profil (mettre une photo, une bio, des liens vers ses preuves publiques d'activité s'il y en a, ...). Parfois, les CFPs sont privés, c'est-à-dire qu'il n'y a pas de moyen public de candidater, cela se fait soit directement en connaissant les orgas, ou bien en se faisant inviter par eux.
 
-contenu d'une réponse à un cfp (cf formulaire du cfp) :
-- titre, catchy mais clair
-- abstract
-  - optionel : hameçon (exemple "l'Agilité c'est synonyme de bullshit") qui cible le public visé
-  - à qui s'adresse le talk
-  - de quoi il va parler, et comment (questionnement/problématique)
-  - ce qu'il apporte (takeaways), ce qu'il y a à en retenir, à apprendre
-- notes pour les orgas :
-  - en quoi le talk répond au cfp (sans paraphraser l'abstract), quelle différence il a des autres sujets potentiels : sa proposition de valeur
-  - légitimité
-  - si dispo : slides, vidéo, ... (même auto-captation)
-  - si déjà donné : où et quand
+Il est tout à fait possible de proposer une conférence avant de l'avoir construite (tel que détaillé en début de la section "Construire le talk" ci-dessous).
 
-soigner son profil sessionize + conference hall + ???
+Pour un CFP classique, voici le détail de ce qui est attendu, et des conseils pour bien y répondre :
 
-attention aux dates de cloture
+* Le titre
 
-parfois CFP privés : il faut connaitre (ou être connu par) les orgas, invitation
+  Il doit être catchy et clair, la longueur ça dépend des goûts
 
-accepter d'être refusé : majirité des cas, même pour les speakers confirmés
+* L'abstract
+
+  Il se retrouvera dans le détail de la conférence sur le programme, donc à bien soigner
+  Il se compose de :
+  * (optionnel) un hameçon, une phrase choc, qui capte l'attention, et si possible qui cible bien le public visé du talk, par exemple `l'Agilité c'est synonyme de bullshit`
+  * à quel public s'adresse le talk (niveau, technicité, ...)
+  * de quoi va parler le talk (quel est le questionnement ou la problématique)
+  * de comment le talk va être donné, si c'est intéressant de le mentionner, cf section "Construire son talk"
+  * de ce que le talk apporte aux personnes qui vont y assister (les "takeaways"), ce qu'il y a à en retenir, à apprendre, ...
+
+* les notes pour les orgas
+
+  Le but est de la rassurer ou conforter dans leur choix, donc :
+  * en quoi le talk répond au CFP (sans paraphraser l'abstract), quelle différence il avec d'autres sujets potentiels, autrement dit quelle est sa proposition de valeur
+  * votre légitimité (si vous en avez une établie, que ce soit sur le sujet ou sur les conférences en général)
+  * (si possible) une vidéo du talk (pour voir ce que vous donnez) ou à défaut les slides
+  * (si possible) si le talk a déjà été donné : où et quand
+
+* les autres champs :
+
+  Ca varie beaucoup d'un CFP à l'autre, mais ça aide les orgas à organiser. Certains champs sont susceptibles de se retrouver dans le programme aussi.
+  * la *track* ("piste") thématique à laquelle le talk se rattache au sein de la conférence
+  * le niveau attendu pour les personnes participantes (découverte / intermédiaire / expertise)
+  * le nombre maximum de personnes participantes (de 15 à no limit)
+  * la durée (de 10 minutes de conf jusqu'à 3 heures d'atelier)
+  * les besoins matériels (audiovisuel, mobilier, ...)
+  * si la captation est autorisée (des fois ce champ est omis)
+  * la langue du talk (souvent français, mais pas toujours)
+  * être plusieurs speakers
+  * accepter le code de conduite, et autres règlements
+
+Poster sa proposition le plus tôt possible. La majorité des sessions sont postées au dernier moment, ce qui empêche le comité de sélection d'échanger avec les speakers, de leur demander de clarifier ou rectifier certains points, c'est immédiatement rejeté. Et ça évite de devoir faire attention à la date de clôture (surtout que souvent la date de minuit est ambigüe).
+
+Poster plusieurs sujets est possible (dans la limite autoridée), pour augmenter ses chances d'en avoir au moins un de pris. Même de grands noms des conférences se font souvent rejeter certaines de leurs propositions.
+
+Ne pas essayer de vendre sa boîte, ce n'est pas du tout l'objectif, et ça peut même être mal vu.
+
+Certaines conférences publient leurs critères de sélection, par exemple pour le [SnowCamp](https://docs.google.com/document/d/e/2PACX-1vReWAaCbafJqc0cCo2vhKWnAVoiHk3Tq561y4GseXvTyOV7cSk6lN2c_feWEWZBIA/pub) ou [Agile Grenoble](https://www.linkedin.com/posts/agilegrenoble_dans-cet-article-nous-vous-emmenons-activity-6958356322421501952-vKVD/).
+
+Avoir une notoriété sur le sujet en question, ou pour donner des conférences en général, peut aider à se faire accepter mais ne rend pas cela automatique pour autant. Des speakers de renom se font régulièrement refuser leurs propositions. Il y a des primo-speakers à presque chaque conférence.
+
+Néanmoins, en dépit de tout cela, il faut accepter que sa proposition se fasse refuser. La plupart des conférences reçoivent plusieurs fois plus de propositions qu'elles n'ont de créneaux disponibles, et doivent faire un choix. Se faire refuser à l'une ne signifie pas qu'on se fera forcément refuser à la prochaine. Il faut donc accepter de ne pas être retenu souvent, cela arrive à tout le monde (même les speakers confirmés).
 
 ## Construire le talk
 
-peut se faire avant de proposer / être accepté par sécurité, mais risque de préparer sans aboutir
+La construction du talk peut être faite bien avant de le soumettre à une conférence. Cela aide notamment à remplir un abstract qui sera fidèle à ce qui sera présenté le jour J. Mais cela inclut le risque de ne pas arriver à faire accepter sa conf, et donc d'avoir travaillé dessus "pour rien" (ce n'est jamais "pour rien du tout", mais il est frustrant de ne pas obtenir le résultat voulu).
+A l'inverse, il peut être stratégique de proposer une conférence qui n'existe pas encore, et de n'avoir à la construire qu'une fois qu'elle sera acceptée. Mais cela cause un risque de temps : les réponses sont parfois à quelques mois de l'évènement, et il peut être difficile de tenir les délais imposés.
+C'est donc une question d'optimisation / de gestion du risque.
+
+À noter que même sans avoir fait toute la construction du talk, pour en préparer un bon abstract, il faut déjà avoir mûri l'idée suffisamment, ce qui prend déjà du temps.
+
+========================================================
+
+TOUT CE QUI SUIT JUSQU'A LA FIN DE LA SECTION EST **TODO**
+
+========================================================
+
+
+
+
+
+
 mais on apprend en préparant
 
 le roder, interne entreprise, meetups locaux, bbl?
@@ -104,9 +152,8 @@ support(s)/formats :
 - théâtre
 - historique ou thématique
 - personnages
+- jeu (de piste ?)
 - ...
-
-tremplin + proposer
 
 assister à des talks soi-même pour voir ce que c'est
 exemples de confs en live ou replay : meetups human talks, devoxx, agile xxx, ...
@@ -118,7 +165,7 @@ format bateau : slides titre/moi/problème/solution
 
 s'inspirer de conf hors IT : keynotes Apple, Ted Talks, spectacles, ...
 
-## Donner le talk
+## TODO: Donner le talk
 
 gestion du stress
 
@@ -128,7 +175,7 @@ répéter avant, autant de fois que nécessaire (polish), en situation
 
 faire une jolie photo pour les réseauc sociaux
 
-## Et ensuite ?
+## TODO: Et ensuite ?
 
 retravailler, faire évoluer au gré des feedbacks
 adapter à un nouveau format/durée/medium/public/...
@@ -147,11 +194,16 @@ si envies satisfaites : recommencer
 
 ## Sources
 
-julien lenormand (ce document)
-julien topçu (TODO lien BeeKoz) https://open.spotify.com/episode/76s0zJmwrfOt3y43sc8hLF
-crafts record twitter + TODO
-aurélie vache : agenda des conférences
-TODO femmes speakeuses
-sessionize discover
-mon profil sessionize
-mon site /talks
+* Julien Lenormand (pour la rédaction de ce document)
+  * [profil Sessionize](https://sessionize.com/lenormand-julien/)
+  * [site perso, page Talks](https://www.lenormand-julien.fr/talks.html)
+* podcast [BeeKoz#12 Deviens speaker avec Julien Topçu](https://open.spotify.com/episode/76s0zJmwrfOT3y43sc8hLF)
+* [Crafts Records](https://craftsrecords.org/) (Twitter, LinkedIn, GitLab, Meetup, Youtube, ...)
+* [agenda des conférences](https://github.com/scraly/developers-conferences-agenda), initié par Aurélie Vache (scraly)
+* [Duchess France](https://www.duchess-france.fr/) (Twitter, GitHub)
+* [Sessionize : discover events](https://sessionize.com/app/speaker/discover)
+* [LA TECHNIQUE ULTIME POUR RÉUSSIR VOS CFP](https://m.youtube.com/watch?v=zsPLfzO8LqM) avec Philippe Charrière (k33g_org sur twitter)
+* Elise et Marmotte, de l'orga d'Agile Grenoble
+* [Les secrets de la sélection des talks chez Devoxx France](https://m.youtube.com/watch?v=zQUVCmAf9DI) par Nicolas Martignole (orga DevoxxFr)
+* [PunkinDev S02E08 : Comment sont choisi les sujets des conférences tech?](https://open.spotify.com/episode/2gU78DXAfA4veC1xD6Sn4r) Avec Estelle Landry (membre de DuchessFr)
+* [Conseils pour réussir un CFP et être retenu](https://blog.lecacheur.com/2021/12/05/conseils-pour-reussir-un-cfp-et-etre-retenu/) par Sébastien Lecacheur
