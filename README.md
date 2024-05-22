@@ -207,3 +207,4 @@ si envies satisfaites : recommencer
 * [Les secrets de la sélection des talks chez Devoxx France](https://m.youtube.com/watch?v=zQUVCmAf9DI) par Nicolas Martignole (orga DevoxxFr)
 * [PunkinDev S02E08 : Comment sont choisi les sujets des conférences tech?](https://open.spotify.com/episode/2gU78DXAfA4veC1xD6Sn4r) Avec Estelle Landry (membre de DuchessFr)
 * [Conseils pour réussir un CFP et être retenu](https://blog.lecacheur.com/2021/12/05/conseils-pour-reussir-un-cfp-et-etre-retenu/) par Sébastien Lecacheur
+* [article (et vidéo) de conseils par Markus Tacker](https://coderbyheart.com/call-for-proposals-lightning-talk)
