@@ -120,6 +120,17 @@ TOUT CE QUI SUIT JUSQU'A LA FIN DE LA SECTION EST **TODO**
 
 
 
+For us, a good abstract contains the following:
+ 
+    Context of your talk or problem
+    Definition of the problem
+    Why is it important to find a solution to that problem?
+    What will be discussed and what will attendees learn?
+    Previous requirements or additional comments on your talk
+ 
+
+
+
 
 
 
@@ -208,3 +219,5 @@ si envies satisfaites : recommencer
 * [PunkinDev S02E08 : Comment sont choisi les sujets des conférences tech?](https://open.spotify.com/episode/2gU78DXAfA4veC1xD6Sn4r) Avec Estelle Landry (membre de DuchessFr)
 * [Conseils pour réussir un CFP et être retenu](https://blog.lecacheur.com/2021/12/05/conseils-pour-reussir-un-cfp-et-etre-retenu/) par Sébastien Lecacheur
 * [article (et vidéo) de conseils par Markus Tacker](https://coderbyheart.com/call-for-proposals-lightning-talk)
+* [article "What Works For Me as a Speaker" par Thierry de Pauw](https://thinkinglabs.io/articles/2024/04/01/what-works-for-me-as-a-speaker.html)
+* [blog de l'EuroPython sur la sélection de leurs talks](https://blog.europython.eu/europython-proposal-selection-process/)
