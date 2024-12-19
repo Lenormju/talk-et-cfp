@@ -222,3 +222,4 @@ si envies satisfaites : recommencer
 * [article "What Works For Me as a Speaker" par Thierry de Pauw](https://thinkinglabs.io/articles/2024/04/01/what-works-for-me-as-a-speaker.html)
 * [blog de l'EuroPython sur la sélection de leurs talks](https://blog.europython.eu/europython-proposal-selection-process/)
 * [exemple du parcours de Dorra Bartaguiz](https://www.linkedin.com/posts/%F0%9F%92%8Edorra-bartaguiz-457b5315_mon-parcours-speaker-ugcPost-7237573582732611584-ozML)
+* [Parle de ton chien ! - conseils pour réussir ses conférences](https://www.24joursdeweb.fr/2024/parle-de-ton-chien-conseils-pour-reussir-ses-conferences)
