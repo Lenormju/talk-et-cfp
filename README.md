@@ -78,6 +78,7 @@ Pour un CFP classique, voici le détail de ce qui est attendu, et des conseils p
   * votre légitimité (si vous en avez une établie, que ce soit sur le sujet ou sur les conférences en général)
   * (si possible) une vidéo du talk (pour voir ce que vous donnez) ou à défaut les slides
   * (si possible) si le talk a déjà été donné : où et quand
+  * (si possible, sinon) les vidéos ou slides d'autres talks donnés
 
 * les autres champs :
 
