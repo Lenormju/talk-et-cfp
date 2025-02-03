@@ -65,9 +65,9 @@ Pour un CFP classique, voici le détail de ce qui est attendu, et des conseils p
 
   Il se retrouvera dans le détail de la conférence sur le programme, donc à bien soigner
   Il se compose de :
-  * (optionnel) un hameçon, une phrase choc, qui capte l'attention, et si possible qui cible bien le public visé du talk, par exemple `l'Agilité c'est synonyme de bullshit`
-  * à quel public s'adresse le talk (niveau, technicité, ...)
-  * de quoi va parler le talk (quel est le questionnement ou la problématique)
+  * (optionnel) un hameçon, une phrase choc, qui capte l'attention, et si possible qui cible bien le public visé du talk, par exemple `l'Agilité c'est synonyme de bullshit`, le but est d'exposer succinctement le problème, en quoi c'est important ou les concerne
+  * à quel public s'adresse le talk (niveau, technicité, ...) et quels en sont les pré-requis
+  * de quoi va parler le talk (quel est le questionnement ou la problématique), optionnellement un plan schématique du contenu
   * de comment le talk va être donné, si c'est intéressant de le mentionner, cf section "Construire son talk"
   * de ce que le talk apporte aux personnes qui vont y assister (les "takeaways"), ce qu'il y a à en retenir, à apprendre, ...
 
@@ -154,16 +154,16 @@ parfois sponso entreprise
 thème
 
 support(s)/formats :
-- slides fixes
-- slides avec de réelles animations
-- live coding
+- slides fixes ([Reveal.js](https://revealjs.com/), [SliDesk](https://github.com/slidesk/slidesk), PowerPoint, ...)
+- slides avec de réelles animations ([Slidev](https://sli.dev/))
+- live coding ([demo-magic](https://github.com/paxtonhare/demo-magic), un IDE)
 - appli
 - atelier
 - participatif
 - guitare
 - théâtre
 - historique ou thématique
-- personnages
+- personnages et costumes
 - jeu (de piste ?)
 - ...
 
