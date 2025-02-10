@@ -156,6 +156,7 @@ thème
 support(s)/formats :
 - slides fixes ([Reveal.js](https://revealjs.com/), [SliDesk](https://github.com/slidesk/slidesk), PowerPoint, ...)
 - slides avec de réelles animations ([Slidev](https://sli.dev/))
+- slides avec interactions ([Ahaslides](https://ahaslides.com/))
 - live coding ([demo-magic](https://github.com/paxtonhare/demo-magic), un IDE)
 - appli
 - atelier
