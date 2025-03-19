@@ -75,10 +75,11 @@ Pour un CFP classique, voici le détail de ce qui est attendu, et des conseils p
 
   Le but est de la rassurer ou conforter dans leur choix, donc :
   * en quoi le talk répond au CFP (sans paraphraser l'abstract), quelle différence il avec d'autres sujets potentiels, autrement dit quelle est sa proposition de valeur
-  * votre légitimité (si vous en avez une établie, que ce soit sur le sujet ou sur les conférences en général)
+  * votre légitimité (si vous en avez une établie, que ce soit sur le sujet ou sur les conférences en général), votre expérience ou expertise de ce sujet
   * (si possible) une vidéo du talk (pour voir ce que vous donnez) ou à défaut les slides
   * (si possible) si le talk a déjà été donné : où et quand
   * (si possible, sinon) les vidéos ou slides d'autres talks donnés
+  * (si possible) le plan détaillé de ce que le talk va couvrir
 
 * les autres champs :
 
@@ -225,3 +226,4 @@ si envies satisfaites : recommencer
 * [blog de l'EuroPython sur la sélection de leurs talks](https://blog.europython.eu/europython-proposal-selection-process/)
 * [exemple du parcours de Dorra Bartaguiz](https://www.linkedin.com/posts/%F0%9F%92%8Edorra-bartaguiz-457b5315_mon-parcours-speaker-ugcPost-7237573582732611584-ozML)
 * [Parle de ton chien ! - conseils pour réussir ses conférences](https://www.24joursdeweb.fr/2024/parle-de-ton-chien-conseils-pour-reussir-ses-conferences)
+* [Proposer une conférence – la réponse au CFP](https://devfesttoulouse.fr/2025/03/18/proposer-une-conference-le-cfp/)
