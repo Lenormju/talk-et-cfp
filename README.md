@@ -227,3 +227,4 @@ si envies satisfaites : recommencer
 * [exemple du parcours de Dorra Bartaguiz](https://www.linkedin.com/posts/%F0%9F%92%8Edorra-bartaguiz-457b5315_mon-parcours-speaker-ugcPost-7237573582732611584-ozML)
 * [Parle de ton chien ! - conseils pour réussir ses conférences](https://www.24joursdeweb.fr/2024/parle-de-ton-chien-conseils-pour-reussir-ses-conferences)
 * [Proposer une conférence – la réponse au CFP](https://devfesttoulouse.fr/2025/03/18/proposer-une-conference-le-cfp/)
+* [La sélection des talks, par Julien Landuré](https://medium.com/devfest-nantes/la-s%C3%A9lection-des-talks-842a622af11a)
