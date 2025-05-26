@@ -155,10 +155,11 @@ parfois sponso entreprise
 thème
 
 support(s)/formats :
-- slides fixes ([Reveal.js](https://revealjs.com/), [SliDesk](https://github.com/slidesk/slidesk), PowerPoint, ...)
+- slides fixes ([Reveal.js](https://revealjs.com/), [SliDesk](https://github.com/slidesk/slidesk), [Remark.js](https://github.com/gnab/remark), [mkslides](https://github.com/MartenBE/mkslides), PowerPoint, ...)
 - slides avec de réelles animations ([Slidev](https://sli.dev/))
 - slides avec interactions ([Ahaslides](https://ahaslides.com/))
 - live coding ([demo-magic](https://github.com/paxtonhare/demo-magic), un IDE)
+- fake live terminal avec [demo-magic](https://github.com/paxtonhare/demo-magic)
 - appli
 - atelier
 - participatif
