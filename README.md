@@ -70,6 +70,8 @@ Pour un CFP classique, voici le détail de ce qui est attendu, et des conseils p
   * de quoi va parler le talk (quel est le questionnement ou la problématique), optionnellement un plan schématique du contenu
   * de comment le talk va être donné, si c'est intéressant de le mentionner, cf section "Construire son talk"
   * de ce que le talk apporte aux personnes qui vont y assister (les "takeaways"), ce qu'il y a à en retenir, à apprendre, ...
+  
+  En résumé, c'est (d'après EuroPython) : rappeller le contexte, poser le problème, expliquer les conséquences, et quels seront les solutions principales (highlights)
 
 * les notes pour les orgas
 
