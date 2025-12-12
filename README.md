@@ -231,3 +231,6 @@ si envies satisfaites : recommencer
 * [Parle de ton chien ! - conseils pour réussir ses conférences](https://www.24joursdeweb.fr/2024/parle-de-ton-chien-conseils-pour-reussir-ses-conferences)
 * [Proposer une conférence – la réponse au CFP](https://devfesttoulouse.fr/2025/03/18/proposer-une-conference-le-cfp/)
 * [La sélection des talks, par Julien Landuré](https://medium.com/devfest-nantes/la-s%C3%A9lection-des-talks-842a622af11a)
+* [Holly Cummins - So, you want to speak at conferences](https://hollycummins.com/so-you-want-to-speak-at-conferences/)
+* [Dylan Beattie - So You Want To Speak At Software Conferences? ](https://dylanbeattie.net/2025/12/08/so-you-want-to-speak-at-software-conferences.html)
+* [DevFest Toulouse - Proposer une conférence : la réponse au CFP](https://devfesttoulouse.fr/2025/03/18/proposer-une-conference-le-cfp/)
