@@ -235,3 +235,4 @@ si envies satisfaites : recommencer
 * [Dylan Beattie - So You Want To Speak At Software Conferences? ](https://dylanbeattie.net/2025/12/08/so-you-want-to-speak-at-software-conferences.html)
 * [DevFest Toulouse - Proposer une conférence : la réponse au CFP](https://devfesttoulouse.fr/2025/03/18/proposer-une-conference-le-cfp/)
 * [Sunny Tech - FAQ 2026 pour les Speaker(euse)s](https://openplanner.fr/public/event/YFlN9koUK0qPuYkvbqQg/faq/?category=speakereuses)
+* [EuroPython 2026: Reviewer Guidelines](https://docs.google.com/document/d/1pGwradLWMOQfmGhfYLD5x_8aMB6IhGFJadoZcABoyPk/mobilebasic)
