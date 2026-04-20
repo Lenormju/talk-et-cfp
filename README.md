@@ -192,6 +192,17 @@ répéter avant, autant de fois que nécessaire (polish), en situation
 
 faire une jolie photo pour les réseauc sociaux
 
+## TODO: répondre aux questions
+
+Selon l'occasion, il y a parfois des règles/conventions pour que l'audience puisse poser des questions. Quelques exemples :
+
+- à la ParisTestConf, les questions sont anonymes et sont envoyées par une appli, qu'un membre du staff modère et pose au speaker
+- au meetup Human Talks de Grenoble, il y a la règle : "la première phrase est une question, il n'y a pas de seconde phrase" (pour éviter l'accaparation du temps de parole, entre autres)
+
+On peut aussi refuser une question, soit parce que la réponse serait trop longue, ou bien qu'on n'est pas confiant sur la réponse. On peut aussi proposer de voir ça après le talk en petit commité.
+
+## TODO: prise de feeback
+
 ## TODO: Et ensuite ?
 
 retravailler, faire évoluer au gré des feedbacks
