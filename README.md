@@ -2,25 +2,25 @@
 
 Donner des conférences, c'est une longue route dont voici les jalons :
 
-* avoir envie,
-* trouver une idée,
-* la proposer (abstract),
-* construire son talk,
-* donner son talk le jour J,
+* avoir envie
+* trouver une idée
+* la proposer (abstract)
+* construire son talk
+* donner son talk le jour J
 * profiter
 
-Chacun est décrit en détail par la suite. En fin, il y aura les sources.
+Chacun est décrit en détail par la suite. Puis, à la fin, il y aura les sources.
 
 ## Avoir envie de donner un talk
 
 La route pour arriver jusqu'à donner un talk peut être longue et exigeante parfois, cela se produit rarement par hasard. Avant toute chose, il peut être utile de se demander pourquoi on veut donner un talk. Cette envie servira à avancer dans la suite du processus.
 Ça peut être pour :
 
-* partager des connaissances,
-* se mettre en avant,
-* obtenir de la légitimité,
-* combler un manque informationnel,
-* donner son avis ou sa perspective,
+* partager des connaissances
+* se mettre en avant
+* obtenir de la légitimité
+* combler un manque informationnel
+* donner son avis ou sa perspective
 * ...
 
 Qu'importe ce qui vous motive, mettez-le à profit pour réussir les étapes suivantes.
@@ -29,7 +29,7 @@ Qu'importe ce qui vous motive, mettez-le à profit pour réussir les étapes sui
 
 Un talk c'est avant tout l'idée qu'il essaye de transmettre. Ça peut être quelque chose de complètement nouveau. Ça peut aussi être une idée pas spécialement nouvelle, mais avec un angle nouveau, différent. On peut aussi revisiter quelque chose qui existe déjà.
 
-Par exemple, l'architecture héxagonale est un sujet vu et revu. Mais il y a toujours de nouvelles façons de la présenter, de l'aborder, de l'associer à d'autres sujets. Et on peut s'inspirer de sujets d'autres personnes également, avec les crédits associés.
+Par exemple, l'architecture hexagonale est un sujet vu et revu. Mais il y a toujours de nouvelles façons de la présenter, de l'aborder, de l'associer à d'autres sujets. Et on peut s'inspirer de sujets d'autres personnes également, avec les crédits associés.
 
 La façon peut être presque aussi importante que l'idée. Trouver des manières pédagogiques, ludiques, différentes de l'aborder est souvent bien vu.
 
@@ -37,15 +37,15 @@ Il est conseillé de discuter de ce sujet avec d'autres personnes afin de l'enri
 
 Pour trouver les idées elles-mêmes, vous pouvez vous inspirer de votre quotidien, de vos envies de tech ou non-tech, des tendances, de ce que vous avez appris, de ce que vous ne comprenez pas, ... Et si vous êtes en panne, n'hésitez pas à en demander à d'autres qui en regorgent (speakers comme audience).
 
-En cas de peur de manque de légitimité, se rassurer car c'est assez fréquent. Passer 20 heures sur un sujet fait déjà sortir du lot, et on peut toujours apporter une perspective différente, malgré son niveau.
-De plus, chaque conférence à un public différent, mais certaines ont tous les ans beaucoup de nouvelles personnes, donc il y a toujours besoin de talks non-experts.
+En cas de peur de manque de légitimité il faut se rassurer car c'est assez fréquent. Passer 20 heures sur un sujet fait déjà sortir du lot, et on peut toujours apporter une perspective différente, malgré son niveau.
+De plus, chaque conférence a un public différent, mais certaines ont tout les ans beaucoup de nouvelles personnes, donc il y a toujours besoin de talks non-experts.
 Il faut combattre notre propre "curse of knowledge".
 
 Il existe des collectifs pour accompagner à devenir speaker. Il y a notamment [Crafts Records](https://craftsrecords.org/) qui organise des "tremplins" afin de coacher des primo-speakers depuis l'idée jusqu'à donner le talk en public, et ensuite à une conférence. Il y a aussi [Duchess France](https://www.duchess-france.fr/) qui propose, entre autre, d'accompagner des femmes dans cette démarche.
 
 ## Proposer le talk / abstract
 
-Le plus important, c'est d'oser. Comme le dit le lotto : "100% des gagnants ont tenté leur chance". Et il est possible de refuser un sujet après qu'il ait été accepté par les orgas, mais ça doit rester une pratique exceptionnelle.
+Le plus important, c'est d'oser. Comme le dit le loto : "100% des gagnants ont tenté leur chance". Et il est possible de refuser un sujet après qu'il ait été accepté par les orgas, mais ça doit rester une pratique exceptionnelle.
 
 Une même idée ne se propose pas à toutes les conférences. Chaque conférence a ses spécificités de public, de niveau, de sujet, de thème, ... On peut réussir à adapter une même idée à plusieurs contextes, mais pas à tous. C'est donc important de se renseigner sur la conf (profil du public, tendances technologoqies actuelles, thème de l'édition, ...). Certaines de ces informations se retrouvent dans le formulaire pour proposer un sujet.
 
@@ -71,12 +71,12 @@ Pour un CFP classique, voici le détail de ce qui est attendu, et des conseils p
   * de comment le talk va être donné, si c'est intéressant de le mentionner, cf section "Construire son talk"
   * de ce que le talk apporte aux personnes qui vont y assister (les "takeaways"), ce qu'il y a à en retenir, à apprendre, ...
   
-  En résumé, c'est (d'après EuroPython) : rappeller le contexte, poser le problème, expliquer les conséquences, et quels seront les solutions principales (highlights)
+  En résumé, c'est (d'après EuroPython) : rappeller le contexte, poser le problème, expliquer les conséquences, et quelles seront les solutions principales (highlights)
 
 * les notes pour les orgas
 
   Le but est de la rassurer ou conforter dans leur choix, donc :
-  * en quoi le talk répond au CFP (sans paraphraser l'abstract), quelle différence il avec d'autres sujets potentiels, autrement dit quelle est sa proposition de valeur
+  * en quoi le talk répond au CFP (sans paraphraser l'abstract), quelle différence il y a avec d'autres sujets potentiels, autrement dit quelle est sa proposition de valeur
   * votre légitimité (si vous en avez une établie, que ce soit sur le sujet ou sur les conférences en général), votre expérience ou expertise de ce sujet
   * (si possible) une vidéo du talk (pour voir ce que vous donnez) ou à défaut les slides
   * (si possible) si le talk a déjà été donné : où et quand
@@ -85,7 +85,7 @@ Pour un CFP classique, voici le détail de ce qui est attendu, et des conseils p
 
 * les autres champs :
 
-  Ca varie beaucoup d'un CFP à l'autre, mais ça aide les orgas à organiser. Certains champs sont susceptibles de se retrouver dans le programme aussi.
+  Cela varie beaucoup d'un CFP à l'autre, mais ça aide les orgas à organiser. Certains champs sont susceptibles de se retrouver dans le programme aussi.
   * la *track* ("piste") thématique à laquelle le talk se rattache au sein de la conférence
   * le niveau attendu pour les personnes participantes (découverte / intermédiaire / expertise)
   * le nombre maximum de personnes participantes (de 15 à no limit)
@@ -98,7 +98,7 @@ Pour un CFP classique, voici le détail de ce qui est attendu, et des conseils p
 
 Poster sa proposition le plus tôt possible. La majorité des sessions sont postées au dernier moment, ce qui empêche le comité de sélection d'échanger avec les speakers, de leur demander de clarifier ou rectifier certains points, c'est immédiatement rejeté. Et ça évite de devoir faire attention à la date de clôture (surtout que souvent la date de minuit est ambigüe).
 
-Poster plusieurs sujets est possible (dans la limite autoridée), pour augmenter ses chances d'en avoir au moins un de pris. Même de grands noms des conférences se font souvent rejeter certaines de leurs propositions.
+Poster plusieurs sujets est possible (dans la limite autorisée), pour augmenter ses chances d'en avoir au moins un de pris. Même de grands noms des conférences se font souvent rejeter certaines de leurs propositions.
 
 Ne pas essayer de vendre sa boîte, ce n'est pas du tout l'objectif, et ça peut même être mal vu.
 
@@ -212,7 +212,7 @@ maturité au bout de quelques fois
 rentabiliser le temps investi : cf les envies du début
 
 soirée des speakers, réseautage
-profiter des autres confs une fis le stress redescendu
+profiter des autres confs une fois le stress redescendu
 
 bénéfices : places offertes, soirée des speakers, petit cadeau fréquent, parfois défraiement, rarement cachet (rémunération)
 
@@ -226,7 +226,7 @@ si envies satisfaites : recommencer
   * [profil Sessionize](https://sessionize.com/lenormand-julien/)
   * [site perso, page Talks](https://www.lenormand-julien.fr/talks.html)
 * podcast [BeeKoz#12 Deviens speaker avec Julien Topçu](https://open.spotify.com/episode/76s0zJmwrfOT3y43sc8hLF)
-* [Crafts Records](https://craftsrecords.org/) (Twitter, LinkedIn, GitLab, Meetup, Youtube, ...)
+* [Crafts Records](https://craftsrecords.org/) (Twitter, LinkedIn, GitLab, Meetup, YouTube, ...)
 * [agenda des conférences](https://github.com/scraly/developers-conferences-agenda), initié par Aurélie Vache (scraly)
 * [Duchess France](https://www.duchess-france.fr/) (Twitter, GitHub)
 * [Sessionize : discover events](https://sessionize.com/app/speaker/discover)
