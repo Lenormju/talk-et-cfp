@@ -38,7 +38,7 @@ Il est conseillé de discuter de ce sujet avec d'autres personnes afin de l'enri
 Pour trouver les idées elles-mêmes, vous pouvez vous inspirer de votre quotidien, de vos envies de tech ou non-tech, des tendances, de ce que vous avez appris, de ce que vous ne comprenez pas, ... Et si vous êtes en panne, n'hésitez pas à en demander à d'autres qui en regorgent (speakers comme audience).
 
 En cas de peur de manque de légitimité il faut se rassurer car c'est assez fréquent. Passer 20 heures sur un sujet fait déjà sortir du lot, et on peut toujours apporter une perspective différente, malgré son niveau.
-De plus, chaque conférence a un public différent, mais certaines ont tout les ans beaucoup de nouvelles personnes, donc il y a toujours besoin de talks non-experts.
+De plus, chaque conférence a un public différent, mais certaines ont tous les ans beaucoup de nouvelles personnes, donc il y a toujours besoin de talks non-experts.
 Il faut combattre notre propre "curse of knowledge".
 
 Il existe des collectifs pour accompagner à devenir speaker. Il y a notamment [Crafts Records](https://craftsrecords.org/) qui organise des "tremplins" afin de coacher des primo-speakers depuis l'idée jusqu'à donner le talk en public, et ensuite à une conférence. Il y a aussi [Duchess France](https://www.duchess-france.fr/) qui propose, entre autre, d'accompagner des femmes dans cette démarche.
