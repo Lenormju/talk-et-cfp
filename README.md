@@ -248,3 +248,4 @@ si envies satisfaites : recommencer
 * [Sunny Tech - FAQ 2026 pour les Speaker(euse)s](https://openplanner.fr/public/event/YFlN9koUK0qPuYkvbqQg/faq/?category=speakereuses)
 * [EuroPython 2026: Reviewer Guidelines](https://docs.google.com/document/d/1pGwradLWMOQfmGhfYLD5x_8aMB6IhGFJadoZcABoyPk/mobilebasic)
 * Julia Cantaragiu
+* [Virginie Pageaud - La cheatsheet de vos CFP](https://virginie-blog.pageaud.net/articles/tech/2026/cfp/)
