@@ -249,3 +249,4 @@ si envies satisfaites : recommencer
 * [EuroPython 2026: Reviewer Guidelines](https://docs.google.com/document/d/1pGwradLWMOQfmGhfYLD5x_8aMB6IhGFJadoZcABoyPk/mobilebasic)
 * Julia Cantaragiu
 * [Virginie Pageaud - La cheatsheet de vos CFP](https://virginie-blog.pageaud.net/articles/tech/2026/cfp/)
+* [Anne-Laure Gros - Serendipitech](https://serendipitech.fr/)
